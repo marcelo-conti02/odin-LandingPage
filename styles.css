@@ -9,6 +9,12 @@
 .page1{
     height: 50vh;
 }
+.page2{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
 .secondaryText{
     display: flex;
     gap: 16px;
@@ -59,4 +65,22 @@ body{
     font-size: 15px;
     color: #F9FAF8;
     font-weight: bold;
+}
+#p2tittle{
+    text-align: center;
+    color: #1F2937;
+    font-weight: bold;
+    font-size: 36px;
+}
+.p2box{
+    max-width: 150px;
+    text-align: center;
+    color: #E5E7EB;
+}
+
+.illustration{
+    height: 150px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #3882F6;
 }
