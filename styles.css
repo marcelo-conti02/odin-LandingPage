@@ -3,8 +3,8 @@
     justify-content: space-between;
     align-items: center;
     background-color: #1F2937;
-    padding-left: 150px;
-    padding-right: 150px;
+    padding-left: 250px;
+    padding-right: 250px;
 }
 .page1{
     height: 50vh;
@@ -32,8 +32,9 @@
     align-items: center;
 }
 #hero, .imgPlaceholder{
-   
     flex: 1;
+    max-width: 35vw;
+    height: 250px;
 }
 a{
     text-decoration: none;
@@ -47,4 +48,15 @@ a{
 body{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif
+}
+.signButton{
+    background-color: #3882F6;
+    height: 35px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: #3882F6;
+    font-size: 15px;
+    color: #F9FAF8;
+    font-weight: bold;
 }
