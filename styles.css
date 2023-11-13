@@ -137,5 +137,14 @@ body{
     padding-left: 30px;
     padding-right: 30px;
 }
+.footer{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+    font-size: 18px;
+    background-color: #1F2937;
+}
 
 
