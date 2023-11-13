@@ -84,3 +84,27 @@ body{
     border-style: solid;
     border-color: #3882F6;
 }
+
+.page3{
+    background-color: #E5E7EB;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+.qhotetext{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    text-align: justify;
+}
+#thor{
+    font-size: 26px;
+    font-weight: bold;
+    color: #1F2937;
+    text-align: end;
+}
+
+
