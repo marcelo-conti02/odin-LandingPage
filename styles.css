@@ -106,5 +106,36 @@ body{
     color: #1F2937;
     text-align: end;
 }
+.page4{
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+    font-size: 20px;
+}
+.bluebox{
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 30px;
+    height: 20vh;
+    width: 70vw;
+    border-radius: 10px;
+}
+
+.page4 button{
+    border-color: #F9FAF8;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
 
 
